@@ -103,8 +103,8 @@ Somente pedidos **confirmados**: faturamento total, quantidade de pedidos, ticke
 
 | Integrante | Responsabilidade |
 |---|---|
-| _nome_ | _ex.: Pedido.js e regras de cupom_ |
-| _nome_ | _ex.: Marketplace.js e relatórios_ |
+| _Cleison_ | _ex.: Pedido.js e regras de cupom_ |
+| _Alex_ | _ex.: Marketplace.js e relatórios_ |
 | _nome_ | _ex.: schemas Zod e validadores_ |
 | _nome_ | _ex.: menu CLI e seed_ |
 
