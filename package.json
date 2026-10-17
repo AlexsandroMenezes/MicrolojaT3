@@ -1,0 +1,24 @@
+{
+  "name": "microlojat3",
+  "version": "1.0.0",
+  "description": "Projeto criado pela turma T3 para apresentação dos estudos feito no M1 do cursa da PDA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexsandroMenezes/MicrolojaT3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlexsandroMenezes/MicrolojaT3/issues"
+  },
+  "homepage": "https://github.com/AlexsandroMenezes/MicrolojaT3#readme",
+  "dependencies": {
+    "zod": "^4.6.7"
+  }
+}
