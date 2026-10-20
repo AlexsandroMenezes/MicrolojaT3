@@ -1,7 +1,4 @@
-
 import { z } from 'zod';
+import { REGIOES } from '../config/regras.js';
+import { apenasDigitos, validarCPF } from '../utils/validadores.js';
 
-export const clienteSchema = z.object({
-  nome: z.string().min(2, 'O nome deve ter pelo menos 2 caracteres'),
-  email: z.email('Informe um e-mail válido'),
-});
