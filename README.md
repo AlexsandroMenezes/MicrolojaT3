@@ -365,8 +365,8 @@ Ela usa **os mesmos métodos do `Marketplace`** do menu, sem duplicar nenhuma re
 |---|---|---|
 | _Nome 1_ | [@CleisonMendes](https://github.com/CleisonMendes) | _ex.: `Pedido.js` e regras de cupom e frete_ |
 | _Nome 2_ | [@AlexsandroMenezes](https://github.com/AlexsandroMenezes) | _ex.: `Marketplace.js` e relatórios_ |
-| _Nome 3_ | [@usuario](https://github.com/PatrickRyam2) ,[@usuario](https://github.com/espinola2007) | _ex.: schemas Zod e validadores de CPF/CNPJ_ |
-| _Nome 4_ | [@usuario](https://github.com/jayane-c) , [@usuario](https://github.com/MicaelNCosta) | _ex.: menu CLI, seed e README_ |
+| _Nome 3_ | [@PatrickRyam2](https://github.com/PatrickRyam2) ,[@espinola2007](https://github.com/espinola2007) | _ex.: schemas Zod e validadores de CPF/CNPJ_ |
+| _Nome 4_ | [@Jayane-C](https://github.com/jayane-c) , [@MicaelNCosta](https://github.com/MicaelNCosta) | _ex.: menu CLI, seed e README_ |
 
 ---
 
