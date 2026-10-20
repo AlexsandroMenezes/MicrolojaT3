@@ -363,8 +363,8 @@ Ela usa **os mesmos métodos do `Marketplace`** do menu, sem duplicar nenhuma re
 
 | Integrante | GitHub | Responsabilidade |
 |---|---|---|
-| _Nome 1_ | [@usuario](https://github.com/CleisonMendes) | _ex.: `Pedido.js` e regras de cupom e frete_ |
-| _Nome 2_ | [@usuario](https://github.com/AlexsandroMenezes) | _ex.: `Marketplace.js` e relatórios_ |
+| _Nome 1_ | [@CleisonMendes](https://github.com/CleisonMendes) | _ex.: `Pedido.js` e regras de cupom e frete_ |
+| _Nome 2_ | [@AlexsandroMenezes](https://github.com/AlexsandroMenezes) | _ex.: `Marketplace.js` e relatórios_ |
 | _Nome 3_ | [@usuario](https://github.com/usuario) | _ex.: schemas Zod e validadores de CPF/CNPJ_ |
 | _Nome 4_ | [@usuario](https://github.com/usuario) | _ex.: menu CLI, seed e README_ |
 
